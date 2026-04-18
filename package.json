@@ -1,11 +1,13 @@
 {
   "name": "polynya",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "Postgres to Iceberg in one command",
   "type": "module",
   "bin": {
     "polynya": "dist/index.js"
   },
+  "license": "MIT",
+  "homepage": "https://polynya.dev",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/polynya-dev/cli.git"
