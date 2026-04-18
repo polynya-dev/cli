@@ -38,5 +38,4 @@ Your agent gets its own ephemeral ClickHouse with near real-time data. It querie
 ## Links
 
 - [polynya.dev](https://polynya.dev) - Website
-- [docs.polynya.dev](https://docs.polynya.dev) - Documentation
 - Built on [pg2iceberg](https://pg2iceberg.dev)
